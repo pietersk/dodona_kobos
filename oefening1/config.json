@@ -9,7 +9,7 @@
     "handler": "python",
     "image": "dodona/dodona-python",
     "time_limit": 10,
-    "memory_limit": 10000000,
+    "memory_limit": 90000000,
     "network_enabled": true,
     "plan_name": "tests.json"
   },
