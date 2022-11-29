@@ -1,4 +1,4 @@
-Schrijf een functie `echo` die steeds haar argument naar standaarduitvoer schrijft.
+Schrijf een functie `echo` die steeds haar argument naar s    tandaarduitvoer schrijft.
 
 ### Voorbeeld in Python
 
