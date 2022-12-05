@@ -6,6 +6,7 @@
     }
   },
   "evaluation": {
+    "handler": "tested",
     "pythia_judge": "output"
   },
   "labels": [
