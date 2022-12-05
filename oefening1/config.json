@@ -6,13 +6,14 @@
     }
   },
   "evaluation": {
-    "handler": "tested",
+    "handler": "python",
     "pythia_judge": "output"
   },
   "labels": [
 
   ],
   "access": "private",
+  "programming_language": "python",
   "internals": {
     "token": "JdmC2-fFM9Yi6Wmd3HJ7AazwJG2J3nn2CF2hHWd-BFVduB22u-WG6yvSSkZzh4pi",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
