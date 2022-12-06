@@ -1,1 +1,1 @@
-getal1 = int(input())
+getal = int(input())
