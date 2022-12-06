@@ -1,11 +1,11 @@
 Schrijf een programma dat 3 getallen inleest en deze rangschikt van klein naar groot
 ## Voorbeeld  
-###Invoer
+### Invoer
 >5  
 >1  
 >9  
 
-###Uitvoer
+### Uitvoer
 >1   
 >5  
 >9  
