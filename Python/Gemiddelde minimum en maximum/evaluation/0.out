@@ -1,0 +1,24 @@
+10
+20
+30
+-16
+45
+78
+7.2
+9
+10.5
+1258
+1300
+1458
+54
+89
+1458
+-12
+-10
+-8
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 3
+output block size: 3
+ignore fp rounding: 1
