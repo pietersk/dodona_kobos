@@ -1,5 +1,5 @@
 Schrijf een programma dat 3 getallen inleest en deze rangschikt van klein naar groot
-## Voorbeeld  
+## Voorbeeld 1  
 ### Invoer
 >5  
 >1  
@@ -9,5 +9,13 @@ Schrijf een programma dat 3 getallen inleest en deze rangschikt van klein naar g
 >1   
 >5  
 >9  
+## Voorbeeld 2  
+### Invoer
+>-10  
+>-65  
+>-30  
 
-### -10 -65 -30 -> -65 -30 -10
+### Uitvoer
+>-65   
+>-30  
+>-10  
