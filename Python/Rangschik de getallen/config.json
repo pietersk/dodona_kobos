@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Rangschik de getallen"
+    }
+  },
+  "access": "private",
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "Jvnf4y86QmEnZ-fqgt73A4Z96sd7RHPvX_tdEvyUJmd_ZzImmBVEx6TKpzMGtuZT",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
