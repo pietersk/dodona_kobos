@@ -9,6 +9,7 @@ Schrijf een programma dat 3 getallen inleest en deze rangschikt van klein naar g
 >1   
 >5  
 >9  
+
 ## Voorbeeld 2  
 ### Invoer
 >-10  
