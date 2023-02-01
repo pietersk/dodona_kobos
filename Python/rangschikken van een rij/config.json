@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "nl": "Reeks rangschikken"
+    }
+  },
+  "access": "private",
+  "labels": [
+
+  ],
+  "internals": {
+  }
+}
