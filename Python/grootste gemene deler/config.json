@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Reeks rangschikken"
+      "nl": "Grootste gemene deler"
     }
   },
   "access": "private",
