@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Twee eerste cijfers"
+      "nl": "Oefening"
     }
   },
   "access": "private",
@@ -9,7 +9,7 @@
 
   ],
   "internals": {
-    "token": "Hh3vj_EqMPCZ_5q7HwdiU-eNzKbICazsPWcC5s_eIDgXj63VFvfT5V--fQ23gTzB",
+    "token": "",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
