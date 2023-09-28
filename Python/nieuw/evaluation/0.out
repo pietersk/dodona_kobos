@@ -1,0 +1,15 @@
+Het aantal getallen is 6
+Het gemiddelde is 10.5
+De som is 21
+De mediaan is 3.5
+
+Het aantal getallen is 5
+Het gemiddelde is 11.8
+De som is 59
+De mediaan is 13
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
+ignore fp rounding: 1
