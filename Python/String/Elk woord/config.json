@@ -1,0 +1,15 @@
+{
+  "description": {
+    "names": {
+      "nl": "Eerste letter"
+    }
+  },
+  "access": "private",
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "IIeVDCnRW4Q7wybg9KzT9sQNP48dvdh_kgJrUuMvfebYUsuFK6JNJhHKgZxiYm_R",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
